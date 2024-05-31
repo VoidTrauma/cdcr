@@ -1,5 +1,11 @@
 # cdcr_SkyScraper
 
+This is a python web scraping script that extracts complete rosters of individual-level data from the California 
+Department of Corrections and Rehabilitation's webapp, California Incarcerated Records and Information Search (CIRIS)
+. Please use responsibly.
+
+Instructions for non-technical users:
+
 1) Download repo
   (for those less familiar with github, click "code" and download the zip.)
 
@@ -18,3 +24,6 @@ If you get permissions errors, run: chown -R $USER:$USER /path/to/directory
 $USER is a global environment variable that refers to the current logged in user.
 
 /path/to/directory should be replaced with the path to where you want to write to.
+
+6) look for finished csv document at that path
+7) 
