@@ -44,7 +44,7 @@ def get_params(response):
 
 
 def go_time(char, pages):
-    for x in tqdm(range(pages + 1), colour="green", desc=f"{char}"):
+    for x in tqdm(range(pages + 1), colour="green", desc=f"{char}", leave=False):
         # loops over each
         # page
         # of main search
