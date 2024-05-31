@@ -26,4 +26,3 @@ $USER is a global environment variable that refers to the current logged in user
 /path/to/directory should be replaced with the path to where you want to write to.
 
 6) look for finished csv document at that path
-7) 
