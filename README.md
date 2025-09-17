@@ -17,8 +17,6 @@ Instructions for non-technical users:
 
 4) run: python cdcr_SkyScraper.py
 
-5) dismantle the carceral state
-
 If you get permissions errors, run: chown -R $USER:$USER /path/to/directory
 
 $USER is a global environment variable that refers to the current logged in user.
